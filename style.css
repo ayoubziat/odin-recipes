@@ -1,0 +1,15 @@
+h1 {
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+li{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: green;
+}
